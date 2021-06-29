@@ -1,7 +1,7 @@
 ```
 
 
-23:58:21|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗__________________________________________________________o>
+23:58:21|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗___________o>
 
 tree -d
 .
@@ -413,13 +413,13 @@ tree -d
     └── site-resources
 
 406 directories
-|23:58:28|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗__________________________________________________________o>
+|23:58:28|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗___________o>
 
 npm i -g recursive-install
 /home/bryan/.nvm/versions/node/v14.17.1/bin/npm-recursive-install -> /home/bryan/.nvm/versions/node/v14.17.1/lib/node_modules/recursive-install/recursive-install.js
 + recursive-install@1.4.0
 updated 1 package in 2.559s
-|23:58:42|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗__________________________________________________________o>
+|23:58:42|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗___________o>
 
 npm-recursive-install
 Installing /mnt/c/Users/bryan/Downloads/bash-commands/steps/2-recursive-npm-install/DS-ALGO-OFFICIAL-master/CONTENT/DS-n-Algos/_Extra-Practice/binarySearchRecursionExample-master/package.json
@@ -574,7 +574,7 @@ npm WARN comments@1.0.0 No repository field.
 Installing /mnt/c/Users/bryan/Downloads/bash-commands/steps/2-recursive-npm-install/DS-ALGO-OFFICIAL-master/package.json
 npm WARN read-shrinkwrap This version of npm is compatible with lockfileVersion@1, but package-lock.json was generated for lockfileVersion@2. I'll try to do my best with it!
 
-|00:02:29|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:1[╗__________________________________________________________o>
+|00:02:29|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:1[╗___________o>
 
 ```
 
@@ -587,7 +587,7 @@ npm WARN read-shrinkwrap This version of npm is compatible with lockfileVersion@
 
 
 ```
-|00:08:41|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗__________________________________________________________o>
+|00:08:41|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗___________o>
 
 tree -L 5 -d
 .
@@ -1056,7 +1056,7 @@ tree -L 5 -d
 
 
 ```
-|00:08:41|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗__________________________________________________________o>
+|00:08:41|bryan@LAPTOP-9LGJ3JGS:[2-recursive-npm-install] 2-recursive-npm-install_exitstatus:0[╗___________o>
 
 tree -L 5 -d
 .

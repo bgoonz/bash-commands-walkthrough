@@ -1,6 +1,6 @@
 
 #BEFORE: 
-```23:50:00|bryan@LAPTOP-9LGJ3JGS:[1-recursive-unzip] 1-recursive-unzip_exitstatus:0[╗__________________________________________________________o>
+```23:50:00|bryan@LAPTOP-9LGJ3JGS:[1-recursive-unzip] 1-recursive-unzip_exitstatus:0[╗___________o>
 
 tree
 .
@@ -10,7 +10,7 @@ tree
     └── terminal-output.md
 
 1 directory, 3 files
-|23:50:10|bryan@LAPTOP-9LGJ3JGS:[1-recursive-unzip] 1-recursive-unzip_exitstatus:0[╗__________________________________________________________o>
+|23:50:10|bryan@LAPTOP-9LGJ3JGS:[1-recursive-unzip] 1-recursive-unzip_exitstatus:0[╗___________o>
 ```
 
 ---
@@ -19,7 +19,7 @@ tree
 ---
 # DURING:
 
-```|23:50:51|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗__________________________________________________________o>
+```|23:50:51|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗___________o>
 
 find . -name "*.zip" | while read filename; do unzip -o -d "`dirname "$filename"`" "$filename"; done;    
 Archive:  ./Export-4ade574e-a08d-44c0-b460-6f9316cd8b3f.zip
@@ -87,12 +87,12 @@ b6ff943d3487e9cf34be9a52f13dff62423db58d
   inflating: ./js-range-main/test/charRangeTest.js
   inflating: ./js-range-main/test/errorTest.js
   inflating: ./js-range-main/test/numRangeTest.js
-|23:50:52|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗__________________________________________________________o>
+|23:50:52|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗___________o>
 
 find . -name "*.zip" -type f -print -delete
 ./Export-4ade574e-a08d-44c0-b460-6f9316cd8b3f.zip
 ./js-range-main.zip
-|23:50:55|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗__________________________________________________________o>
+|23:50:55|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗___________o>
 ```
 
 
@@ -185,7 +185,7 @@ tree
 └── terminal-output.md
 
 20 directories, 58 files
-|23:50:58|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗__________________________________________________________o>
+|23:50:58|bryan@LAPTOP-9LGJ3JGS:[starter] starter_exitstatus:0[╗___________o>
 
 
 ```
