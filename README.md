@@ -1,6 +1,9 @@
 # Bash Commands Walkthrough
+---
+| <============================= <==(Begin)==> =============================> |
+| ------------------------------------------------------------------------------------- |
 
-1.)
+### 1.) Recursively unzip zip files and then delete the archives when finished
 
 ```sh
 # Recursively unzip zip files and then delete the archives when finished
